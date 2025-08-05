@@ -1,23 +1,21 @@
-package Lecture5;
+package Lecture4;
 
 public class Practice {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		int n =14;
-		int m = 20;
-//		int sum = n + m;
-		System.out.println(addTwoNumber(n, m));
+//		int i = 1;
+//		while( i < 0) {
+//			System.out.println("Hellow World");
+//		}
 		
-		int x = 200;
-		int y = 400;
-//		int sum1 = x + y;
-		System.out.println(addTwoNumber(x, y));
-	}
-	
-	static int addTwoNumber(int a, int b) {
-		int sum = a + b;
-		return sum;
+//		int n = 10;
+//		int sum = 0;
+//		for(int i = 1;i <= n; i++) {
+//			sum = sum + i;
+//		}
+//		
+//		System.out.println(sum);
 	}
 
 }
